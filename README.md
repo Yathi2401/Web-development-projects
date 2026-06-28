@@ -1,7 +1,6 @@
 # Web Development Projects
 
 This repository contains my web development projects, showcasing HTML, CSS, and JavaScript skills.  
-Each project includes source files and live demo links where available.
 
 ## Projects List
 
